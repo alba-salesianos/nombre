@@ -1,0 +1,5 @@
+laClave.cer
+Datos_Personales/DNI.db
+
+# Si queremos añadir la carpeta entera, Datos_Personales/*
+# Si queremos añadir todos los archivos de un formato, Datos_Personales/*.png
